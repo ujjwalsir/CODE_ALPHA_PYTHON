@@ -1,4 +1,4 @@
-# CODE_ALPHA_PYTHON
+# CODE_ALPHA_language translator
 INTERNSHIP TASK 1  
 # Language-Translator-in-Python
 # About Language Translator
